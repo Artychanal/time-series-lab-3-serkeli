@@ -1,0 +1,20 @@
+{
+  "app_id": 1091500,
+  "title": "Cyberpunk 2077",
+  "developers": [
+    "CD PROJEKT RED"
+  ],
+  "release_date_text": "9 Dec, 2020",
+  "review_summary": "Very Positive",
+  "review_tooltip": null,
+  "genres": [
+    "RPG"
+  ],
+  "store_url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+  "collected_at_utc": "2026-09-21T12:10:53+00:00",
+  "histogram_url": "https://store.steampowered.com/appreviewhistogram/1091500?l=all&review_score_preference=0&purchase_type=all",
+  "observations": 70,
+  "period_start": "2020-12-01",
+  "period_end": "2026-09-01",
+  "total_reviews_in_series": 945795
+}

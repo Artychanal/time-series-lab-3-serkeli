@@ -1,0 +1,9 @@
+[project]
+name = "time-series-3"
+version = "0.1.0"
+requires-python = ">=3.12"
+description = "Laboratory 3: causal Kalman filtering and adaptive state estimation"
+dependencies = [
+    "numpy>=2.2,<3", "pandas>=2.2,<3", "scipy>=1.15,<2",
+    "matplotlib>=3.10,<4", "statsmodels>=0.14,<0.15",
+]
